@@ -1,0 +1,28 @@
+name: Random
+favicon: null
+layout_spectrum: 0.9448784338310361
+typography_spectrum: 0.7359389308840036
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9378609966952354
+  lightness: 0.5556367549579591
+  saturation: 0.35326611320488155
+  rhythmicContrast: 0.2059455206617713
+purpose: []
